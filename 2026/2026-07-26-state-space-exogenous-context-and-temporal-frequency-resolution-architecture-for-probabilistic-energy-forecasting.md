@@ -9,7 +9,7 @@
 - **Paper:** https://arxiv.org/abs/2607.20587
 - **Code:** https://github.com/yedadasd/SPECTRA
 - **Topics:** Time Series Forecasting, Energy Forecasting, State Space Models, Mamba, Quantile Regression, Spectral Analysis, Probabilistic Forecasting
-- **Status:** ✅ Read
+- **Status:**  Read
 
 ---
 
