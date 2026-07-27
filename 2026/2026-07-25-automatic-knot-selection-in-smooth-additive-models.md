@@ -9,7 +9,7 @@
 - **Paper:** https://arxiv.org/abs/2607.21083
 - **Code:** https://github.com/n-carrizo/AKSSAM
 - **Topics:** Generalized Additive Models, B-Splines, Nonparametric Regression, Knot Selection, Sparse Models
-- **Status:** ✅ Read
+- **Status:**  Read
 
 ---
 
